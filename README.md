@@ -2,7 +2,7 @@
 
 ## Descrição dos projetos :star:
 
-projetos desenvolvidos no Bootcamp GoStack da [Rocketseat](https://www.rocketseat.com.br).
+Projetos desenvolvidos no Bootcamp GoStack da [Rocketseat](https://www.rocketseat.com.br).
 
  - Primeiro projeto com Node.js - [backend](https://github.com/thaislsilveira/GoStack-Jornada-Nova-Nivel01/tree/master/backend).
  - Primeiro projeto com React.js - [frontend](https://github.com/thaislsilveira/GoStack-Jornada-Nova-Nivel01/tree/master/frontend).
