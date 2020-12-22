@@ -23,13 +23,13 @@ Em caso de download do projeto você precisará baixar as dependências:
 ```
 yarn
 ``` 
--Para iniciar o projeto em Node.js e desafio em Node.js , basta executar o comando abaixo:
+-Para iniciar o projeto em Node.js, desafio em Node.js e projeto em React.js, basta executar o comando abaixo:
 
 ```
 yarn dev 
 ```
 
--Para iniciar o projeto em React.js e desafio em React.js , basta executar o comando abaixo:
+-Para iniciar o desafio em React.js , basta executar o comando abaixo:
 
 ```
 yarn start 
