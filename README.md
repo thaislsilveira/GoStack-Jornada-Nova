@@ -57,8 +57,8 @@ yarn start
 
 ## Web :computer:
 
-![Web](https://github.com/thaislsilveira/GoStack-Jornada-Nova-Nivel01/imagens/web.png)
+![Web](https://github.com/thaislsilveira/GoStack-Jornada-Nova-Nivel01/blob/master/web.png)
 
 ## Mobile :iphone:
 
-![Mobile](https://github.com/thaislsilveira/GoStack-Jornada-Nova-Nivel01/imagens/mobile.png) 
+![Mobile](https://github.com/thaislsilveira/GoStack-Jornada-Nova-Nivel01/blob/master/mobile.png) 
