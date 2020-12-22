@@ -55,4 +55,10 @@ yarn start
    <li><a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></li>  
 </ul>
 
+## Web :computer:
 
+![Web](https://github.com/thaislsilveira/GoStack-Jornada-Nova-Nivel01/imagens/web.png)
+
+## Mobile :iphone:
+
+![Mobile](https://github.com/thaislsilveira/GoStack-Jornada-Nova-Nivel01/imagens/mobile.png) 
